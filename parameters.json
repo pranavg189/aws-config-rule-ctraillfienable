@@ -1,0 +1,10 @@
+{
+  "Parameters": {
+    "RuleName": "ctraillfienabled",
+    "SourceRuntime": "python3.6",
+    "CodeKey": "ctraillfienabled.zip",
+    "InputParameters": "{}",
+    "SourceEvents": "AWS::CloudTrail::Trail",
+    "SourcePeriodic": "TwentyFour_Hours"
+  }
+}
